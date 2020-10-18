@@ -1,0 +1,151 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2020-10-18T14:36:10.643Z",
+        "line": 11,
+        "name": "To test the login functionality of Orangehrm",
+        "description": "",
+        "id": "to-verify-the-orangehrm-application;to-test-the-login-functionality-of-orangehrm;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 15519000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Launch the browser and navigate to the URL",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_Launch_the_browser_and_navigate_to_the_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 633000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter \"Admin\" and \"admin123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Admin\"",
+                  "offset": 9
+                },
+                {
+                  "val": "\"admin123\"",
+                  "offset": 21
+                }
+              ],
+              "location": "com.stepdefinition.LoginTeststeps.to_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1231000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To click the submit button",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_click_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1524000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To take the screenshot and close the browser",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_take_the_screenshot_and_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2020-10-18T14:36:30.264Z",
+        "line": 12,
+        "name": "To test the login functionality of Orangehrm",
+        "description": "",
+        "id": "to-verify-the-orangehrm-application;to-test-the-login-functionality-of-orangehrm;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 9148000000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "To Launch the browser and navigate to the URL",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_Launch_the_browser_and_navigate_to_the_URL()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 274000000,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "To enter \"user\" and \"hrm123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"user\"",
+                  "offset": 9
+                },
+                {
+                  "val": "\"hrm123\"",
+                  "offset": 20
+                }
+              ],
+              "location": "com.stepdefinition.LoginTeststeps.to_enter_and(java.lang.String,java.lang.String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1181000000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "To click the submit button",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_click_the_submit_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1279000000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To take the screenshot and close the browser",
+            "match": {
+              "location": "com.stepdefinition.LoginTeststeps.to_take_the_screenshot_and_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "To Verify The Orangehrm Application",
+    "description": "",
+    "id": "to-verify-the-orangehrm-application",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/Features/Testcase.feature",
+    "tags": []
+  }
+]

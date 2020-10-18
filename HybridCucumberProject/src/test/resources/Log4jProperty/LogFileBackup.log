@@ -1,0 +1,57 @@
+2020-10-18 19:28:50,159 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:29:06,489 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:29:09,929 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 19:43:17,170 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:43:28,990 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:43:28,991 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:43:29,336 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 19:43:30,890 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 19:43:31,727 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 19:45:10,989 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:45:22,926 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:45:22,927 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:45:23,360 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 19:45:24,991 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 19:45:25,889 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 19:54:20,449 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:54:32,323 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:54:32,323 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:54:32,349 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:54:41,843 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:54:41,844 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:56:57,016 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:57:10,898 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:57:10,899 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:57:10,977 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:57:21,919 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:57:21,919 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:58:34,437 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:58:46,192 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:58:46,193 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 19:58:46,211 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 19:58:56,807 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 19:58:56,808 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 20:00:45,205 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 20:00:57,532 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 20:00:57,533 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 20:00:58,092 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 20:00:59,986 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 20:01:00,987 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 20:01:01,001 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 20:01:10,289 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 20:01:10,289 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 20:01:10,559 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 20:01:12,208 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 20:01:13,098 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 20:06:11,328 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 20:06:26,373 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 20:06:26,374 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 20:06:27,017 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 20:06:28,793 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 20:06:29,773 [main] INFO BaseClass.Library - Exiting the application and closing the browser
+2020-10-18 20:06:30,277 [main] INFO BaseClass.Library - *******Starting with Browser Set Up*********
+2020-10-18 20:06:39,414 [main] INFO BaseClass.Library - Launched the cucumber Application
+2020-10-18 20:06:39,415 [main] INFO BaseClass.Library - *******Browser Launched*********
+2020-10-18 20:06:39,690 [main] INFO BaseClass.Library - *******Enter username and password*********
+2020-10-18 20:06:41,262 [main] INFO BaseClass.Library - *******Screenshot Captured*********
+2020-10-18 20:06:42,150 [main] INFO BaseClass.Library - Exiting the application and closing the browser
